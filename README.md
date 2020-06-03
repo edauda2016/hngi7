@@ -1,2 +1,2 @@
 # hngi7
-This is my initial commit to this repository.
+This is my first commit to the HNGi7 repository
